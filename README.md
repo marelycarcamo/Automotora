@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este programa, escrito en Java, simula el funcionamiento de una automotora. La automotora tiene varios tipos de vehículos como taxis, buses y minibuses. También tiene una tienda que vende artículos relacionados con los vehículos.
+<p align="justify">Este programa, escrito en Java, simula el funcionamiento de una automotora. La automotora tiene varios tipos de vehículos como taxis, buses y minibuses. También tiene una tienda que vende artículos relacionados con los vehículos.</p>
 
 ## Funcionalidad
 
@@ -15,4 +15,4 @@ El programa realiza las siguientes operaciones:
 
 ## Uso
 
-Para usar este programa, simplemente ejecute el método `main`. El programa imprimirá en la consola los resultados de las operaciones realizadas.
+<p align="justify">Para usar este programa, simplemente ejecute el método `main`. El programa imprimirá en la consola los resultados de las operaciones realizadas.</p>
